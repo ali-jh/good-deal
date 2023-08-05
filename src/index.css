@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Shabnam-Light';
+    src: local('Shabnam-Light'), url(./font/Shabnam-Light.ttf) format('truetype');
+  }
+  text{
+    font-family: "Shabnam-Light";
+  }

@@ -1,0 +1,33 @@
+
+
+.main-segment {
+    background-color: white;
+    opacity: 90%;
+    border: 1px solid #4f15bb;
+    border-radius: 40px;
+    backdrop-filter: blur(10px);
+ 
+}
+
+label {
+    font-family: BYekan;
+}
+
+.title-image img{
+    max-width: 220px;
+}
+
+.login-form {
+    min-width: 400px;
+}
+
+.submit-button {
+    width: 100%;
+}
+
+.main-login {
+    background-image: url(../image/Gandom.png);
+    background-position-x: 35%;
+    background-repeat: repeat-y;
+    height: 100vmin;
+}
